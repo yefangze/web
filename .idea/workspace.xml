@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,7 +22,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f696a0b-db43-4b95-b480-264d4ab38891" name="Default Changelist" comment="" />
+    <list default="true" id="9f696a0b-db43-4b95-b480-264d4ab38891" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,9 +153,13 @@
       <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
       <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
       <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="ProjectId" id="1nZOAZArcmmRVhWSr5UmY8hd1U4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -150,15 +167,23 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/static_pages" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+    <property name="settings.editor.selected.configurable" value="inlay.hints" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views/static_pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views/static_pages" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -175,7 +200,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611594005731</updated>
       <workItem from="1611594007375" duration="384000" />
-      <workItem from="1611630148502" duration="2003000" />
+      <workItem from="1611630148502" duration="5697000" />
     </task>
     <servers />
   </component>
@@ -194,25 +219,33 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="202" key="#Deployment" timestamp="1611630461401">
+    <state x="440" y="202" key="#Deployment" timestamp="1611658885478">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="440" y="202" key="#Deployment/0.23.1680.1027@0.23.1680.1027" timestamp="1611630461401" />
+    <state x="440" y="202" key="#Deployment/0.23.1680.1027@0.23.1680.1027" timestamp="1611658885478" />
     <state x="474" y="222" key="#Inspections" timestamp="1611631693325">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="474" y="222" key="#Inspections/0.23.1680.1027@0.23.1680.1027" timestamp="1611631693325" />
-    <state x="424" y="189" key="#SSH_Configurations" timestamp="1611630453399">
+    <state x="454" y="216" key="#Options" timestamp="1611643292805">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="424" y="189" key="#SSH_Configurations/0.23.1680.1027@0.23.1680.1027" timestamp="1611630453399" />
+    <state x="454" y="216" key="#Options/0.23.1680.1027@0.23.1680.1027" timestamp="1611643292805" />
+    <state x="424" y="189" key="#SSH_Configurations" timestamp="1611658883974">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="424" y="189" key="#SSH_Configurations/0.23.1680.1027@0.23.1680.1027" timestamp="1611658883974" />
     <state x="440" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611634578217">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="440" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1611634578217" />
-    <state x="341" y="175" key="SettingsEditor" timestamp="1611594100372">
+    <state x="341" y="175" key="SettingsEditor" timestamp="1611642791672">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="341" y="175" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1611594100372" />
+    <state x="341" y="175" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1611642791672" />
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1611660077263">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1611660077263" />
   </component>
 </project>
