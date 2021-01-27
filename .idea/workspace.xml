@@ -39,6 +39,7 @@
       <change beforePath="$PROJECT_DIR$/resources/views/layouts/_header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/_header.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layouts/default.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/default.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/static_pages/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/static_pages/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/users/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/users/create.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
@@ -209,7 +210,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611594005731</updated>
       <workItem from="1611594007375" duration="384000" />
-      <workItem from="1611630148502" duration="9869000" />
+      <workItem from="1611630148502" duration="11282000" />
     </task>
     <servers />
   </component>
